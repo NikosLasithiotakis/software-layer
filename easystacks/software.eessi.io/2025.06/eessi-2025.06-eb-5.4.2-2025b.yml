@@ -91,3 +91,6 @@ easyconfigs:
   - Ray-project-2.47.1-foss-2025b.eb
   - TRF-4.09.1-GCCcore-14.3.0.eb
   - deprecation-2.1.0-GCCcore-14.3.0.eb
+  - Parallax-20261105-GCCcore-14.3.0.eb:
+      options:
+        from-commit: 5b90791ceba0ea45683763c0252ac33ba313033e
